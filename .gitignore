@@ -1,0 +1,4 @@
+*.BAK
+.git
+.idea
+/books/
